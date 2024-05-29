@@ -1,5 +1,12 @@
-### Hi there 👋
+Hi! I'm Garence Wong
+========================================================================================================================================
 
+🌍  I am an aspiring Front-End Developer with a strong interest in creating intuitive and visually appealing user interfaces.
+<br/>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 **GarenceWong/GarenceWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
