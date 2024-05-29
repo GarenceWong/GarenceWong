@@ -6,7 +6,7 @@ Hi! I'm Garence Wong
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js)](https://skillicons.dev)
 <br/>
 More to learn...
 <!--
