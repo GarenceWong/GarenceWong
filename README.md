@@ -6,7 +6,7 @@ Hi! I'm Garence Wong
 
 ### Skills
 
-(https://skillicons.dev/icons?i=html,css) (https://skillicons.dev/icons?i=js)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 **GarenceWong/GarenceWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
