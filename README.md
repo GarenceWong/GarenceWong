@@ -1,7 +1,7 @@
-Hi! I'm Garence Wong
+Hi! I'm Garence Wong 🎏
 ========================================================================================================================================
 
-🌍  I am an aspiring Front-End Developer with a strong interest in creating intuitive and visually appealing user interfaces.
+⛩️  I am an aspiring Front-End Developer with a strong interest in creating intuitive and visually appealing user interfaces.
 <br/>
 
 ### Skills
