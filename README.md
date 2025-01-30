@@ -31,7 +31,7 @@ I specialize in designing visually appealing and functional interfaces that prov
 - LinkedIn: [garencewong](www.linkedin.com/in/garence-wong)
 
 
-✨ Designing the future, one pixel at a time.
+Happy coding! 😄
 
 <!--
 **GarenceWong/GarenceWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
