@@ -21,9 +21,9 @@ I specialize in designing visually appealing and functional interfaces that prov
 
 ---
 
-🌱 I'm constantly learning and expanding my skill set, embracing new technologies, and seeking opportunities to work with driven teams. I enjoy contributing to open-source projects and tackling real-world problems with innovative solutions.
+🌱 I'm constantly learning and expanding my skill set, embracing new technologies, and seeking opportunities to work with driven teams. I love creating intuitive and impactful UI/UX designs that address real-world needs and enhance user experiences.
 
-📈 Let's connect and explore potential collaborations. Feel free to check out my repositories to see examples of my projects and coding style.
+📈 Let's connect and explore potential collaborations. Feel free to check out my repositories.
 
   
 ### 💬 How to reach me:
