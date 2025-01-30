@@ -9,8 +9,14 @@ Passionate about designing intuitive and visually stunning user interfaces. Enth
 [![My Languages](https://skillicons.dev/icons?i=html,css,js,python,cs)](https://skillicons.dev)
 <br/>
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,vsc)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,vscode)](https://skillicons.dev)
 <br/>
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 More to learn...
 <!--
 **GarenceWong/GarenceWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
