@@ -12,7 +12,6 @@ Passionate about designing intuitive and visually stunning user interfaces. Enth
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,vscode)](https://skillicons.dev)
 <br/>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garencewong)](https://github.com/garencewong/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garencewong&show_icons=true&theme=dark)
 
 
