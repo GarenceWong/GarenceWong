@@ -6,11 +6,11 @@ I'm a passionate **UI/UX Designer** with a focus on creating intuitive, user-fri
 
 I specialize in designing visually appealing and functional interfaces that provide seamless user experiences. I'm passionate about **AI-powered design solutions** and always looking for opportunities to merge creativity with cutting-edge technology.
 
-### 🛠️ Tech Stack
+### 🛠️ Languages, Frameworks and Tools
 
-#### **Languages, Frameworks and Tools**
 [![My Languages](https://skillicons.dev/icons?i=figma,xd,vscode,html,css,js,python,cs)](https://skillicons.dev)
 
+---
 
 ## 📊 GitHub Stats
 
