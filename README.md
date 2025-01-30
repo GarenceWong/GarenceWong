@@ -8,7 +8,7 @@ I enjoy designing visually appealing and functional interfaces that provide seam
 
 ### 🛠️ Languages, Frameworks and Tools
 
-[![My Languages](https://skillicons.dev/icons?i=figma,xd,vscode,html,css,js,python,cs,pd)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=figma,xd,vscode,html,css,js,python,cs,pandas)](https://skillicons.dev)
 
 ---
 
