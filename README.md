@@ -7,6 +7,7 @@ Passionate about designing intuitive and visually stunning user interfaces. Enth
 ### Language and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js)](https://skillicons.dev)
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 <br/>
 More to learn...
