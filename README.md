@@ -4,11 +4,11 @@ Hi! I'm Garence!
 Passionate about designing intuitive and visually stunning user interfaces. Enthusiastic about new technology innovations, driving both my academic and personal pursuits. Eager to assist and collaborate with others, and continually seeking opportunities to expand my expertise and skills.
 <br/>
 
-### Language and Tools
+### Languages, Frameworks and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,python,cs)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,vsc)](https://skillicons.dev)
 <br/>
 More to learn...
 <!--
