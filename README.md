@@ -12,6 +12,7 @@ Passionate about designing intuitive and visually stunning user interfaces. Enth
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,vscode)](https://skillicons.dev)
 <br/>
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garencewong&show_icons=true&theme=dracula)
 
 
