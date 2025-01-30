@@ -27,8 +27,8 @@ I specialize in designing visually appealing and functional interfaces that prov
 
   
 ### 💬 How to reach me:
-- Email: [YourEmail@example.com](mailto:garencewong@gmail.com)
-- LinkedIn: [LinkedInProfile](www.linkedin.com/in/garence-wong)
+- Email: [garencewong@gmail.com](mailto:garencewong@gmail.com)
+- LinkedIn: [garencewong](www.linkedin.com/in/garence-wong)
 
 
 <!--
