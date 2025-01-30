@@ -1,6 +1,6 @@
 # Hi, I'm Garence! 👋
 
-I'm a passionate **UI/UX Designer** with a focus on creating intuitive, user-friendly interfaces. I thrive on exploring **new technology innovations**, particularly those integrating **AI** to improve user experiences. I'm eager to collaborate, learn, and continue growing both personally and professionally.
+A passionate **UI/UX Designer** with a focus on creating intuitive, user-friendly interfaces. I thrive on exploring **new technology innovations**, particularly those integrating **AI** to improve user experiences. I'm eager to collaborate, learn, and continue growing both personally and professionally.
 
 ## 🚀 About Me
 
