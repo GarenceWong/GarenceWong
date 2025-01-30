@@ -8,6 +8,7 @@ Passionate about designing intuitive and visually stunning user interfaces. Enth
 
 [![My Languages](https://skillicons.dev/icons?i=html,css,js,python,cs)](https://skillicons.dev)
 <br/>
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,vsc)](https://skillicons.dev)
 <br/>
 More to learn...
