@@ -4,7 +4,7 @@ A passionate **UI/UX Designer** with a focus on creating intuitive, user-friendl
 
 ## 🚀 About Me
 
-I specialize in designing visually appealing and functional interfaces that provide seamless user experiences. I'm passionate about **AI-powered design solutions** and always looking for opportunities to merge creativity with cutting-edge technology.
+I enjoy designing visually appealing and functional interfaces that provide seamless user experiences. I'm enthusiastic about AI-powered design solutions and always looking for opportunities to merge creativity with cutting-edge technology.
 
 ### 🛠️ Languages, Frameworks and Tools
 
