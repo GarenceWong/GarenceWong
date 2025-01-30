@@ -8,16 +8,9 @@ I specialize in designing visually appealing and functional interfaces that prov
 
 ### 🛠️ Tech Stack
 
-#### **Languages & Frameworks**
-- HTML, CSS, JavaScript, Python, C#
+#### **Languages, Frameworks and Tools**
+[![My Languages](https://skillicons.dev/icons?i=figma,xd,vscode,html,css,js,python,cs)](https://skillicons.dev)
 
-#### **Design & Prototyping Tools**
-- Figma, Adobe XD, Sketch, InVision
-
-#### **Other Tools & Technologies**
-- VS Code, Git, GitHub, AI Integrations (Python Libraries, TensorFlow, etc.)
-
----
 
 ## 📊 GitHub Stats
 
