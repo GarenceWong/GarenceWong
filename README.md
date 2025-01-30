@@ -21,14 +21,15 @@ I specialize in designing visually appealing and functional interfaces that prov
 
 ---
 
-### 🌱 I’m currently working on:
-- **Integrating AI into UI/UX design processes** to create adaptive user interfaces.
-- **Personal projects** that combine **machine learning** with user-centric design.
+### 🌱 I'm constantly learning and expanding my skill set, embracing new technologies, and seeking opportunities to work with driven teams. I enjoy contributing to open-source projects and tackling real-world problems with innovative solutions.
+
+### 📈 Let's connect and explore potential collaborations. Feel free to check out my repositories to see examples of my projects and coding style.
+
   
 ### 💬 How to reach me:
-- Email: [YourEmail@example.com](mailto:youremail@example.com)
-- LinkedIn: [LinkedInProfile](https://www.linkedin.com/in/your-profile)
-- Portfolio: [YourPortfolio.com](https://yourportfolio.com)
+- Email: [YourEmail@example.com](mailto:garencewong@gmail.com)
+- LinkedIn: [LinkedInProfile](www.linkedin.com/in/garence-wong)
+
 
 <!--
 **GarenceWong/GarenceWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
