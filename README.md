@@ -1,23 +1,15 @@
 # Hi, I'm Garence! 👋
 
-A passionate **UI/UX Designer** with a focus on creating intuitive, user-friendly interfaces. I thrive on exploring **new technology innovations**, particularly those integrating **AI** to improve user experiences. I'm eager to collaborate, learn, and continue growing both personally and professionally.
+### 🚀 About Me
 
-## 🚀 About Me
+I build modern, clean, and responsive websites with a UI/UX-first mindset, focusing on clear layouts, smooth interactions, and polished details.
 
-I enjoy designing visually appealing and functional interfaces that provide seamless user experiences. I'm enthusiastic about AI-powered design solutions and always looking for opportunities to merge creativity with cutting-edge technology.
+Leveraging on AI tools to speed up ideation and prototyping, explore multiple design directions, and iterate quickly from concept to working UI. I’m continuously improving my development skills by building real projects and refining usability with every iteration.
 
 ### 🛠️ Languages, Frameworks and Tools
 
 [![My Languages](https://skillicons.dev/icons?i=figma,xd,vscode,html,css,js,python,cs,ps,androidstudio,kotlin,aws)](https://skillicons.dev)
 
----
-
-## 📊 GitHub Stats
-
-![Garence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garencewong&show_icons=true&theme=dracula)
-
-### 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garencewong&layout=compact)
 
 ---
 
